@@ -14,7 +14,7 @@ import pyautogui
 import json
 import random
 
-WEBHOOK_URL = "https://discord.com/api/webhooks/13" # Paste your webHook here within the double quotes.
+WEBHOOK_URL = "YOUR_WEBHOOK_HERE" # Paste your webHook here within the double quotes.
 
 
 def wait_for_internet(timeout=60):
@@ -121,4 +121,5 @@ if __name__ == "__main__":
     while True:
         send_startup_message()
         time.sleep(120)  # wait 2 minutes before sending again
+
 
