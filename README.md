@@ -66,6 +66,10 @@ Built specifically for **Windows environments**.
 ### Install Python modules:
 
     pip install -r requirements.txt
+    
+    pyinstaller --onefile --windowed --icon=pic.png screenpulse.py
+
+    Go to dist folder then run the .exe file, you can also rename the exe file like: Host Process for Windows Task (for not having suspiousness).
 
 # ⚙️ **Configuration**
 
