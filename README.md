@@ -43,13 +43,7 @@ Built specifically for **Windows environments**.
   🎨 Random Embed Colors     Looks cleaner in Discord
   🔁 Auto Loop               Sends data forever
 
-## 📸 **Screenshot Demo**
 
-Place your screenshot in the repo like this:
-
-    SS_01.png
-
-    ![ScreenPulse Screenshot](SS_01.png)
 
 ## 🔥 **Webhook Preview (Discord Embed)**
 
@@ -99,7 +93,14 @@ simulations, and educational purposes only**.
 
 Do not run this tool on systems without explicit permission.
 
-# 👤 **Author**
-**Nuknov**
+## **Contributors:**
+
+* [AnonKryptiQuz](https://github.com/AnonKryptiQuz)
+* [Hghost0x00](https://github.com/Hghost0x00)
+
+
+## **Author**
+
+**Created by:** [Nuknov](https://github.com/Nuknov)
 
 
