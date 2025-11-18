@@ -105,10 +105,11 @@ The author is **not responsible** for any misuse or damage caused by this progra
 Use responsibly.
 
 
-## **Contributors:**
+## **Team Idea:**
 
 * [AnonKryptiQuz](https://github.com/AnonKryptiQuz)
 * [Hghost0x00](https://github.com/Hghost0x00)
+* [0nsec](https://github.com/0nsec)
 
 
 ## **Author**
