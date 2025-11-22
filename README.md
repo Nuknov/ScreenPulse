@@ -95,17 +95,17 @@ To change delay:
 
 ## ⚠️ Disclaimer
 
-This project is provided for **educational** and **authorized testing** purposes only.  
-You must have **explicit permission** from the system owner before using this tool.
+>This project is provided for **educational** and **authorized testing** purposes only.  
+>You must have **explicit permission** from the system owner before using this tool.
 
-The author is **not responsible** for any misuse or damage caused by this program.
+>The author is **not responsible** for any misuse or damage caused by this program.
 
-**Detection Note:**  
-- Current detection probability is around **50/50**.  
-- **Kaspersky** is known to detect this tool at the moment.  
-- It is recommended to **modify the script** to match your operational needs.
+>**Detection Note:**  
+>- Current detection probability is around **50/50**.  
+>- **Kaspersky** is known to detect this tool at the moment.  
+>- It is recommended to **modify the script** to match your operational needs.
 
-Use responsibly.
+>Use responsibly.
 
 
 ## **Team Idea:**
