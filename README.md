@@ -87,7 +87,10 @@ Runs forever --- sends a full recon packet every **120 seconds**.
 
 To change delay:
 
-    time.sleep(120)
+    if __name__ == "__main__":
+      while True:
+        send_startup_message()
+        time.sleep(120) # 2 min == 120 (Modify your minutes according to your need.)
 
 
 ## ⚠️ Disclaimer
