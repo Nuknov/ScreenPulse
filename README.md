@@ -1,12 +1,15 @@
 # 🔥 **ScreenPulse -- Windows Recon & Screenshot Dropper**
 
-ScreenPulse is a Windows exclusive recon operator that sweeps the
-system, fingerprints the machine, snaps a desktop screenshot every 2
+[![Version](https://img.shields.io/badge/version-1.0-blue.svg)]()
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+
+**ScreenPulse** is a Windows exclusive recon operator that sweeps the
+system, fingerprints the machine, **snaps a desktop screenshot every 2
 minutes, and ships everything straight to your webhook without getting
-Discord rate-limited or banned.
+Discord rate-limited or banned.**
 
 Clean. Silent. Automated.\
-Built for red team simulations and cyber research.
+Built for red team **simulations** and **cyber research.**
 
 ## 🧩 **What ScreenPulse Does**
 
@@ -38,7 +41,7 @@ Built specifically for **Windows environments**.
   🔋 Battery Data            Battery %, charge state
   🌐 Network                 Private IP + Public IP via ipify
   📡 WiFi Info               SSID via netsh (Windows only)
-  🪪 Hardware Fingerprints   MAC address
+   🪪 Hardware Fingerprints   MAC address
   📸 Screenshot Capture      Full desktop PNG every 2 minutes
   🎨 Random Embed Colors     Looks cleaner in Discord
   🔁 Auto Loop               Sends data forever
