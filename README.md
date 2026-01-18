@@ -36,15 +36,15 @@ Built specifically for **Windows environments**.
 
   Feature                    Details
   -------------------------- -------------------------------------------
-  🖥 System Recon             Username, hostname, OS, architecture, CPU
-  🧠 System Stats            RAM, disk usage, uptime, active sessions
-  🔋 Battery Data            Battery %, charge state
-  🌐 Network                 Private IP + Public IP via ipify
-  📡 WiFi Info               SSID via netsh (Windows only)
-   🪪 Hardware Fingerprints   MAC address
-  📸 Screenshot Capture      Full desktop PNG every 2 minutes
-  🎨 Random Embed Colors     Looks cleaner in Discord
-  🔁 Auto Loop               Sends data forever
+   System Recon             Username, hostname, OS, architecture, CPU
+   System Stats             RAM, disk usage, uptime, active sessions
+   Battery Data             Battery %, charge state
+   Network                  Private IP + Public IP via ipify
+   WiFi Info                SSID via netsh (Windows only)
+   Hardware Fingerprints    MAC address
+   Screenshot Capture       Full desktop PNG every 2 minutes
+   Random Embed Colors      Looks cleaner in Discord
+   Auto Loop                Sends data forever
 
 
 
