@@ -112,7 +112,6 @@ To change delay:
 ## Team Idea:
 
 * [AnonKryptiQuz](https://github.com/AnonKryptiQuz)
-* [Anon2Fear](https://github.com/Anon2Fear)
 * [0nsec](https://github.com/0nsec)
 
 
