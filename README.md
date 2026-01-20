@@ -62,9 +62,9 @@ Built specifically for **Windows environments**.
 }
 ```
 
-# 🛠️ Installation
+## 🛠️ Installation
 
-## Install Python modules:
+### Install Python modules:
 
     pip install -r requirements.txt
     
@@ -72,7 +72,7 @@ Built specifically for **Windows environments**.
 
     Go to dist folder then run the .exe file, you can also rename the exe file like: Host Process for Windows Task (for not having suspiousness).
 
-# ⚙️ Configuration
+## ⚙️ Configuration
 
 Inside the script:
 
@@ -80,7 +80,7 @@ Inside the script:
 
 Paste your Discord webhook.
 
-# ▶️ Run ScreenPulse
+## ▶️ Run ScreenPulse
 
     python screenpulse.py
 
