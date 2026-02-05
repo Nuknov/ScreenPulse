@@ -8,26 +8,26 @@ system, fingerprints the machine, **snaps a desktop screenshot every 2
 minutes, and ships everything straight to your webhook without getting
 Discord rate-limited or banned.**
 
-Clean. Silent. Automated.\
+Clean. Silent. Automated.
 Built for red team **simulations** and **cyber research.**
 
 ## 🧩 **What ScreenPulse Does**
 
--   Collects system fingerprints\
--   Gathers network info\
--   Captures a **full desktop screenshot**\
--   Sends everything to your webhook every **120 seconds**\
--   Loops forever\
--   Stays under Discord's radar (no rate-limit spam)\
--   Random embed colors for dynamic logs\
+-   Collects system fingerprints
+-   Gathers network info
+-   Captures a **full desktop screenshot**
+-   Sends everything to your webhook every **120 seconds**
+-   Loops forever
+-   Stays under Discord's radar (no rate-limit spam)
+-   Random embed colors for dynamic logs
 -   Auto retry until internet is available
 
 ## 🛰️ **Tech Stack**
 
--   Python\
--   Requests\
--   PyAutoGUI\
--   Psutil\
+-   Python
+-   Requests
+-   PyAutoGUI
+-   Psutil
 -   Discord Webhooks
 
 Built specifically for **Windows environments**.
