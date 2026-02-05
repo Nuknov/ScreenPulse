@@ -2,6 +2,8 @@
 
 [![Version](https://img.shields.io/badge/version-1.0-blue.svg)]()
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Built by Nuknov](https://img.shields.io/badge/Built%20by-Nuknov-000000?logo=github&logoColor=white)](https://github.com/Nuknov)
+[![Red Team Research](https://img.shields.io/badge/Red%20Team%20Research-Nuknov-8B0000?logo=terminal)](https://nuknov.github.io)
 
 **ScreenPulse** is a Windows exclusive recon operator that sweeps the
 system, fingerprints the machine, **snaps a desktop screenshot every 2
