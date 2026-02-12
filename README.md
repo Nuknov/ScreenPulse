@@ -98,7 +98,7 @@ To change delay:
 
 ## ⚠️ Disclaimer
 
->This project is provided for **educational** and **authorized testing** purposes only.  
+>This project is provided for **educational**, **simulation** and **authorized testing** purposes only.  
 >You must have **explicit permission** from the system owner before using this tool.
 >
 >The author is **not responsible** for any misuse or damage caused by this program.
