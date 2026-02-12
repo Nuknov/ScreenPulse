@@ -13,6 +13,14 @@ Discord rate-limited or banned.**
 Clean. Silent. Automated.
 Built for red team **simulations** and **cyber research.**
 
+---
+
+## 📸 **Screenshot**
+
+![Screen Pulse](SS_01.png)
+
+---
+
 ## 🧩 **What ScreenPulse Does**
 
 -   Collects system fingerprints
