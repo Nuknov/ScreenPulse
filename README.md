@@ -11,7 +11,7 @@ minutes, and ships everything straight to your webhook without getting
 Discord rate-limited or banned.**
 
 Clean. Silent. Automated.
-Built for red team **simulations** and **cyber research.**
+Built for red team **simulations**, **testing** and **cyber research.**
 
 ---
 
