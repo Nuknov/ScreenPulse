@@ -112,7 +112,8 @@ To change delay:
 >The author is **not responsible** for any misuse or damage caused by this program.
 >
 >**Detection Note:**  
->- Current detection probability is around **50/50**.  
+>- Current detection probability is around **50/50** (Update News: Defender Is Compromising This Malware)
+>-  
 >- **Kaspersky** is known to detect this tool at the moment.  
 >- It is recommended to **modify the script** to match your operational needs.
 >
