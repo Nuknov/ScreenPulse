@@ -113,7 +113,7 @@ To change delay:
 >
 >**Detection Note:**  
 >- Current detection probability is around **50/50** (Update News: Defender Is Compromising This Malware)
->-  
+>- Updated Malware is in Progress.  
 >- **Kaspersky** is known to detect this tool at the moment.  
 >- It is recommended to **modify the script** to match your operational needs.
 >
